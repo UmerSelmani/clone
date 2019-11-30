@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 from django.shortcuts import render, redirect
 from django.contrib import messages
 from .forms import UserRegisterForm
-
+#sadsaddsadsa
 
 def register(request):
     if request.method == 'POST':
